@@ -79,3 +79,7 @@ Built With
 *   CSS
     
 *   JavaScript
+Authors
+-------
+
+*   **Ananya Ray** -
